@@ -1,2 +1,2 @@
-# proyecto
+# PROYECTO
 Created with CodeSandbox
